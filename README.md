@@ -1,5 +1,5 @@
 # NYC Resistor Workshop: Build Your Own IoT Love Messengers!
-**Saturday, Dec 21, 2024** 
+**Date TBD** 
 <br>
 by Julia Daser and Pepi Ng
 <br>
